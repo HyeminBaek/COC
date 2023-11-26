@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/mtc-dbs-mobile_channel" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/mtc-ncr-channel" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/mtc-ncr-core_to_core" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/mtc-ncr-core_to_ext" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/mtc-ncr-process" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/mtc-ncr-result" vcs="Git" />
+  </component>
+</project>
